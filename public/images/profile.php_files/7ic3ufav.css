@@ -1,0 +1,123 @@
+/*    HTTP Host:  static.ak.fbcdn.net                                          */
+/*    Generated:  February 17th 2010 6:05:30 AM PST                            */
+/*      Machine:  10.16.140.103                                                */
+/*       Source:  Backing Store                                                */
+/*     Location:  css/21lzlb87uow0swss.pkg.css h:7ic3ufav                      */
+/*       Locale:  nu_ll                                                        */
+/*         Path:  css/21lzlb87uow0swss.pkg.css                                 */
+
+.profile_form .pop_content .dialog_body{padding:0;border-bottom:none}
+.profile_form .pop_content .dialog_body h2{margin:0}
+.profile_form .filter_options{font-size:11px;padding:8px 10px}
+.ie6 .profile_form .filter_options .PillFilter_pillfilter{zoom:1}
+.profile_form h3.filter_options strong{color:#808080;font-weight:bold}
+.profile_form h3.filter_options a.filter_option{margin:0 5px;padding:2px 5px;border:solid 1px #eee;font-weight:normal}
+.profile_form h3.filter_options a.selected{background:#dedede;border:solid 1px #999}
+.profile_form h3.filter_options a.selected:hover{text-decoration:none}
+.profile_form .preview_body{background:#f2f2f2 url(/rsrc.php/zBAGE/hash/759ub6xu.gif) no-repeat scroll 16px 60px;position:relative;border-top:solid 1px #ccc;padding:0 20px 20px 0}
+.profile_form .boxes{background:#f2f2f2 url(/rsrc.php/z8IA6/hash/38mqcy0v.gif) no-repeat scroll 16px 112px}
+.profile_form .boxes .preview_profile_image{display:none}
+.profile_form .boxes .preview_shadow{width:108px;height:122px;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/rsrc.php/zE7V1/hash/btmoegze.png',sizingMethod='scale');background-image:url(/rsrc.php/zE7V1/hash/btmoegze.png)!important;background-image:none;left:26px;top:19px}
+.profile_form .preview_body .preview_content{position:relative;z-index:2;border:solid 1px #3b5998;background:white;padding:20px 20px 0;overflow:auto;min-height:180px;top:20px;margin-left:134px;margin-bottom:20px}
+.profile_form .preview_body .preview_narrow{width:200px}
+.profile_form .preview_body .preview_wide{width:400px}
+.profile_form .preview_body .profile{max-height:400px;min-height:210px}
+.profile_form .preview_body .profile .box{margin-top:0;border-top:1px solid #94a3c4;border-bottom:none}
+.profile_form .preview_profile_image{position:absolute;top:66px;left:28px;filter:alpha(opacity=65);opacity:.65;z-index:1
+}
+.profile_form .preview_shadow{width:118px;height:160px;background-image:url(/rsrc.php/z25DW/hash/besdqsn2.png)!important;background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/rsrc.php/z25DW/hash/besdqsn2.png', sizingMethod='scale');padding:0;margin:0;position:absolute;top:20px;left:20px}
+.profile_form #status{margin-top:10px}
+.profile_form .preview_body .preview_text{font-weight:bold;font-size:11px;position:absolute;padding:20px 0 0 20px}
+.profile_form .profile .box{margin-top:0}
+.profile_info_form #info{position:relative;z-index:2;border:solid 1px #3b5998;background:white;padding:20px;width:530px;overflow:hidden;margin:20px 0 0 130px}
+.profile_info_form #info .info_tab{padding:0}
+.profile_info_form #info .info_tab .editor_section{margin-bottom:0}
+.profile_info_form .generic_dialog_popup{width:740px}
+.profile_info_form .preview_body{background:#eeeeee url(/rsrc.php/zB305/hash/48ypwzqe.gif) no-repeat scroll 20px 60px}
+.profile_info_form .preview_shadow{width:51px;height:159px;background-image:url(/rsrc.php/z4ICO/hash/dyaf9o56.png)!important;background-image:none;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/rsrc.php/z4ICO/hash/dyaf9o56.png', sizingMethod='scale');padding:0;margin:0;position:absolute;top:21px;left:79px}
+.interaction_form .pop_content{width:600px}
+.interaction_form div.dialog_content{border-width:0}
+.interaction_form .pop_content div.dialog_body{padding:0}
+.interaction_dialog_body{padding:0;border-bottom:1px solid #ccc}
+.interaction_form_body{padding:0;border-bottom:none}
+.interaction_form .choose_story{margin:5px 10px 0;padding:0 0 3px;position:relative;width:350px;z-index:2}
+.interaction_form .underline{border-bottom:1px solid #edeff5;margin:0 10px}
+.interaction_form .choose_story .label{font-weight:bold;color:#808080;float:left;padding:2px 10px 4px 5px}
+.interaction_form_body .choose_story a.option{float:left;border-bottom:none;padding:4px 14px 4px;text-align:center;overflow:hidden;zoom:1}
+.interaction_form .minifeedwall .story{margin-top:0;margin-bottom:0}
+.interaction_form .story_preview{margin-top:0}
+.interaction_form .story_preview .preview{display:none}
+.interaction_form .story_preview .selected{display:block}
+.interim_status{padding:15px 10px}
+.interaction_form .story_preview{padding:15px 10px 10px}
+.interaction_form .story_preview_nile{padding:10px 3px 6px 20px}
+.interaction_form .story_preview .icon{float:left;width:16px}
+.interaction_form .recipients{font-size:11px;padding:5px 10px 2px;color:#808080}
+.interaction_form .recipients strong{float:left;padding:4px}
+.interaction_form .recipients .token{font-weight:normal;float:left;display:block;background-image:url(/rsrc.php/zO52Q/hash/5n2nw1c6.gif);background-repeat:no-repeat;color:#000;margin:2px;white-space:nowrap}
+.interaction_form .recipients .token span{background-image:url(/rsrc.php/zO52Q/hash/5n2nw1c6.gif);background-position:top right;background-repeat:no-repeat;display:block}
+.interaction_form .recipients .token span span{background-position:bottom right}
+.interaction_form .recipients .token span span span{background-position:bottom left}
+.interaction_form .recipients .token span span span span{background-image:none;padding:2px 3px 3px 5px}
+.interaction_form .recipients .token:hover,
+.interaction_form .recipients .token:hover span{background-image:url(/rsrc.php/zF06U/hash/acyc41zn.gif);text-decoration:none}
+.interaction_form .recipients a.hide{background-repeat:no-repeat;background-image:url(/rsrc.php/z3NZ7/hash/2fpiuayh.gif);background-position:3px 2px;padding:0 8px 0 3px;text-decoration:none}
+.interaction_form .recipients a.hide:hover{text-decoration:none}
+.interaction_form .link_placeholder{color:#3b5998;display:inline;padding:0}
+.interaction_form .title .link_placeholder{font-weight:bold}
+.interaction_form .minifeedwall .size_2.story_type_7 .icon{margin-top:0}
+.interaction_form .size_4 .title .link_placeholder{font-size:14px}
+.interaction_form .not_me_link{float:right;padding:2px 10px}
+.interaction_form .feed_dialog_disclaimer{padding:0 0 10px 10px;color:#808080;font-size:9px}
+.interaction_form .auto_accept{padding:0 0 10px 10px}
+.interaction_form .dialog_buttons{overflow:visible;position:relative;background:#f7f7f7;padding:10px;zoom:1}
+.interaction_form .dialog_buttons .button_container{float:right}
+.interaction_form .UIPrivacyWidget{float:right}
+.interaction_form .UIPrivacyWidget .UIActionMenu{border-bottom:none}
+.interaction_form .dialog_buttons_msg{float:left;width:340px;text-align:left;padding-top:3px}
+.interaction_form .dialog_buttons_msg .feed_remember .inputcheckbox{padding:0;margin:0 5px 0 5px;vertical-align:bottom;height:14px;width:14px}
+.interaction_form .dialog_buttons_msg .feed_remember .remember_explanation{padding:5px 0 0 5px;color:#777}
+.interaction_form .dialog_buttons input.align_bottom{position:absolute;bottom:10px;right:10px}
+.interaction_form .buttons input{margin-left:10px}
+table.connect_dialog{position:relative}
+table.box_section_iframe{width:432px}
+table.info_section_iframe{width:720px}
+.canvas_iframe_util{overflow:hidden;width:646px;height:800px}
+.frame_wide .canvas_iframe_util{width:760px}
+.frame_wide #fb_sell_profile{overflow:hidden;max-height:100px}
+.fbframe .canvas_rel_positioning{position:relative;overflow:hidden;zoom:1}
+#pagefooter .app_copyright{color:#777;padding:0 8px 0 0;float:none;width:auto}
+#pagefooter .app_copyright .brand{background-image:url(/rsrc.php/z4XGZ/hash/7abvozy3.gif);background-position:center left;background-repeat:no-repeat;padding:5px 10px 6px 22px}
+#pagefooter .app_copyright .brand .page_built_by{padding-right:5px}
+#pagefooter .app_copyright .footer_report_link{padding-left:6px;padding-right:4px}
+#pagefooter .app_copyright .ip{position:absolute}
+.UIDirectoryBox_List{width:150px;float:left;margin:0 2px;padding:0 0 15px}
+.UIDirectoryBox_Item{font-size:13px}
+.share_list .added{background:#fff8cc;border-bottom:solid 1px #ffe222;margin:0 10px 10px -6px;padding:6px 6px 3px 6px}
+.share_list .item_container{padding-bottom:5px}
+.share_list .timestamp{color:#777;font-size:9px;padding-top:1px}
+.tabs{padding:0;border-bottom:1px solid #898989}
+.ff2 .tabs{padding:3px 0}
+.tabs.top{background:#f7f7f7}
+.tabs .left_tabs{padding-left:10px;float:left}
+.tabs .right_tabs{padding-right:10px;float:right}
+.tabs .back_links{padding-right:20px;float:right}
+.toggle_tabs{text-align:center;margin-bottom:-1px}
+.ff2 .toggle_tabs{margin-bottom:0}
+.toggle_tabs li{display:inline;padding:2px 0 3px;background:#f1f1f1 url(/rsrc.php/z3HLG/hash/4x24xq7f.gif) top left repeat-x}
+.ie6 .toggle_tabs li,
+.ie7 .toggle_tabs li{background-position:left 3px}
+.toggle_tabs li a{border:1px solid #898989;border-left:0;color:#333;font-weight:bold;padding:2px 8px 3px 9px;display:inline-block}
+.toggle_tabs li a small{font-size:11px;font-weight:normal}
+.toggle_tabs li a:focus{outline:0}
+.toggle_tabs li.first a{border:1px solid #898989}
+.toggle_tabs li a.selected{margin-left:-1px;background:#6d84b4;border:1px solid #3b5998;border-left:1px solid #5973a9;border-right:1px solid #5973a9;color:#fff}
+.toggle_tabs li.last a.selected{margin-left:-1px;border-left:1px solid #5973a9;border-right:1px solid #36538f}
+.toggle_tabs li.first a.selected{margin:0;border-left:1px solid #36538f;border-right:1px solid #5973a9}
+.toggle_tabs li.first.last a.selected{border:1px solid #36538f}
+.toggle_tabs li a.selected:hover{text-decoration:none}
+.toggle_tabs li a.disabled{color:#999;cursor:default}
+.toggle_tabs li a.disabled:hover{text-decoration:none}
+.toggle_tabs .hidden{display:none}
+
+#bootloader_css_21lzlb87uow0swss_pkg_css { height: 42px; }

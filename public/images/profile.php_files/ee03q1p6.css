@@ -1,0 +1,43 @@
+/*    HTTP Host:  static.ak.fbcdn.net                                          */
+/*    Generated:  December 13th 2009 11:13:53 PM PST                           */
+/*      Machine:  10.16.139.108                                                */
+/*       Source:  Backing Store                                                */
+/*     Location:  css/2d7ax2nolev4scoo.pkg.css h:ee03q1p6                      */
+/*       Locale:  nu_ll                                                        */
+/*         Path:  css/2d7ax2nolev4scoo.pkg.css                                 */
+
+.UIAdmgrCreativePreview .UIEMUASFrame{background-color:#fff;border:1px solid #e5e5e5}
+.UIEMUASSocialContext{padding-bottom:6px}
+.UIEmuASIFrame{padding:10px 0 5px 10px;width:160px}
+.UIEMUASFrame{padding:10px 0 10px 10px;width:147px}
+.UIEMUASFrame .hidden{display:none}
+.UIEMUASFrame_creative{padding-right:5px}
+.UIEMUASFrame_image img{max-height:80px}
+.ie6 .UIEMUASFrame_image img{height:expression((this.height > 80 ?
+(this.style.height = '80px'):(this.style.height = 'auto')) && true)}
+a.UIEMUASFrame_hide{display:block;float:right;line-height:12px;height:12px;width:11px;margin-left:5px;background:url(/rsrc.php/z8WRC/hash/2rqaa2im.gif) left top no-repeat}
+a.UIEMUASFrame_hide:hover{background-position:left -12px;text-decoration:none}
+.UIEMUASFrame_body{color:#333;overflow:hidden;padding-bottom:3px;padding-top:5px}
+a.UIEMUASFrame_title{display:block;font-size:12px;font-weight:bold;overflow:hidden;padding:0 0 7px 1px}
+a.UIEMUASFrame_imageAndBody:hover{text-decoration:none}
+.UIEMUASFrame_creative:hover a.UIEMUASFrame_title{text-decoration:underline}
+.UIEMUASFrame_titleAndFeedback:hover a.UIEMUASFrame_title{text-decoration:none}
+a.UIEMUASFrame_title:hover{text-decoration:underline !important}
+.UIEMUASFrame_action{padding-bottom:5px;padding-top:3px}
+.UIEMUASEventFrame_dialogEventImage{float:left;padding-top:3px;width:100px}
+.UIEMUASEventFrame_dialogEventDetails{float:right;padding:0 10px;width:300px}
+.UIEMUASEventFrame_dialogEventName{font-size:10pt;font-weight:bold}
+.UIEMUASEventFrame_dialogEventInfo{padding:7px 0 7px}
+.UIEMUASFanFrame .async_saving{background:url(/rsrc.php/zBS5C/hash/7hwy7at6.gif) no-repeat left
+center;text-indent:-5000px;display:block}
+.UIEMUASSLikeFrame .async_saving{background:url(/rsrc.php/zBS5C/hash/7hwy7at6.gif) no-repeat left
+center;text-indent:-5000px;display:block}
+.UIEMUASSLikeFrame_userLikes .UIEMUASSLikeFrame_notLiked{display:none}
+.UIEMUASSLikeFrame_liked{display:none}
+.UIEMUASSLikeFrame_userLikes .UIEMUASSLikeFrame_liked{display:inline}
+.UIEMUASSLikeFrame .UIEMUASSocialContext{padding-bottom:0;padding-top:2px}
+.UIEMUASSLikeFrame_likeIcon .UIEMUASSocialContext{padding-bottom:0;padding-top:6px}
+.UIEMUASPymkFrame_friend{background:url(/rsrc.php/z4WYI/hash/ua0bfdzs.gif) no-repeat left top;padding:2px 0 0 22px}
+.UIEMUASPymkFrame_explanation{padding:2px 0 0 0;display:block;float:right}
+
+#bootloader_css_2d7ax2nolev4scoo_pkg_css { height: 42px; }

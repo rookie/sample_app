@@ -1,0 +1,24 @@
+/*    HTTP Host:  static.ak.fbcdn.net                                          */
+/*    Generated:  October 19th 2009 4:39:17 PM PDT                             */
+/*      Machine:  10.16.140.106                                                */
+/*       Source:  Global Cache                                                 */
+/*     Location:  css/5oaden500hgcs0ck.pkg.css h:1dww4e7c                      */
+/*       Locale:  nu_ll                                                        */
+/*         Path:  css/5oaden500hgcs0ck.pkg.css                                 */
+
+.gift_outer{padding:3px;float:left;margin-left:3px;margin-top:4px}
+.ie6 .gift_outer{padding:3px 2px}
+.gift_inner{background-image:none;background-repeat:no-repeat;width:64px;height:64px}
+.giftshop_gift_info{margin:0 0 0 4px;float:left}
+.giftshop_gift_info .gift_title{margin:0;font-size:9px}
+.giftshop_gift_info .limited_time,
+.giftshop_gift_info .limited_edition{margin-top:2px;font-size:9px;color:#999}
+#gifts{margin-bottom:-5px}
+#gifts .with_caption{float:left;padding:0 18px 10px 0}
+.app_box_left_column #gifts .with_caption{padding:0 5px 10px 0}
+#gifts .gift_outer{cursor:pointer;cursor:hand;float:none;margin:0 0 0 0}
+#gifts .gift_caption{font-size:9px;margin-top:3px;text-align:center;color:#808080}
+#gifts .gift_caption span{color:#999}
+#gifts .gift_caption a{color:#808080}
+
+#bootloader_css_5oaden500hgcs0ck_pkg_css { height: 42px; }

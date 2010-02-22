@@ -1,0 +1,194 @@
+/*    HTTP Host:  b.static.ak.fbcdn.net                                        */
+/*    Generated:  February 17th 2010 1:47:00 PM PST                            */
+/*      Machine:  10.16.140.109                                                */
+/*       Source:  Backing Store                                                */
+/*     Location:  css/2n0jmc6z9zy8cwg0.pkg.css h:1ibf1o7k                      */
+/*       Locale:  nu_ll                                                        */
+/*         Path:  css/2n0jmc6z9zy8cwg0.pkg.css                                 */
+
+.sidebar{padding-right:176px;overflow:hidden;background:#fff url(/rsrc.php/z43O5/hash/4gnmxnl7.gif) repeat-y top right}
+.sidebar.other_side{padding-left:176px;padding-right:0;background:#fff url(/rsrc.php/zBLNJ/hash/5m86itcs.gif) repeat-y top left}
+.sidebar .content_frame{float:left;width:100%;margin-right:-176px;padding-right:176px}
+.sidebar .content_frame.other_side{float:right;margin-left:-176px;margin-right:0;padding-left:176px;border-right:none}
+.sidebar .sidebar_frame{float:left;width:176px;margin-right:-176px}
+.sidebar .sidebar_frame.other_side{float:right;margin-left:-176px;margin-right:0}
+.sidebar .sidebar_frame .panel{padding:10px 10px 10px 11px}
+div.gift_credits_body{margin:0 25px}
+.gift_credits div.checkout_and_main_body{margin:0 auto;width:500px}
+.gift_credits div.main_body{background-color:#f7f7f7;padding:20px 30px}
+.gift_credits .gift_cart_box{margin-bottom:20px}
+.gift_credits .input_card,
+.gift_credits .stored_card,
+.gift_credits .payment_details{}
+.gift_credits #cc_countryCode{width:191px}
+.gift_credits #cc_cvv2{width:40px}
+.gift_credits #cc_cvv2_2{width:40px}
+.gift_credits .total_amount{border-top:1px solid #c0c0c0;margin:16px 0 0 0;padding:10px 0 10px 5px;font-size:13px}
+.gift_credits .total_amount .total_label{font-weight:bold}
+.gift_credits .total_amount #total_amount_element{padding-left:5px;font-size:16px;font-weight:bold}
+.gift_credits .total_amount .iso_text{color:#999;font-size:12px}
+.gift_credits #payment{padding-left:7px}
+.gift_credits .button_row{padding-top:15px;text-align:center}
+.gift_credits .button_row .inputbutton{margin-right:8px}
+.gift_credits .payment_footer{padding-top:25px;text-align:center}
+.gift_credits .loading_payment{text-align:center}
+.gift_credits .loading_payment .loading_payment_inner{background:url(/rsrc.php/z5R48/hash/ejut8v2y.gif) no-repeat scroll 0 4px;font-size:13px;font-weight:bold;line-height:32px;padding:12px 0 12px 40px}
+.gift_credits .order_error_msg{background-color:#ffebe8;border:1px solid #dd3c10;margin:10px auto;font-size:12px;padding:6px 12px 6px 12px;text-align:center;width:450px}
+.gift_credits .error_message{text-align:center;padding-bottom:10px}
+.gift_credits .error_message .error_right{font-size:13px;font-weight:bold;vertical-align:middle;padding:0 0 10px 10px}
+.balance{border-bottom:1px solid #e9e9e9;font-size:9px;padding:0 0 5px 0;text-align:right}
+.balance_total{color:#333;font-weight:bold;font-size:11px}
+.in_the_red{background-color:#ffebe8;border-bottom:none;padding:5px 5px 5px 5px;margin:5px 0 0 0}
+.checkout_cart .item{padding:10px}
+.checkout_cart .item .item_left{float:left;overflow:hidden;padding-right:13px;width:10px}
+.checkout_cart .item .item_left img{padding-top:2px}
+.checkout_cart .item .item_right{float:left;width:455px}
+.checkout_cart .item .title{font-size:13px;font-weight:bold;overflow:hidden}
+.checkout_cart .item .description{font-size:11px;overflow:hidden;padding:5px 0 10px 0}
+.checkout_cart .item .description .cost{color:#666}
+.checkout_cart .item .description .price{font-weight:bold}
+.gift_cart{margin:0 0 10px 0}
+.gift_cart_balance{margin:0 0 0 0}
+.gift_cart #credits_reprice_message{padding:2px 2px 2px}
+.success_cart .success_item{padding:10px}
+.success_cart .success_item .success_item_left{float:left;margin-right:10px;overflow:hidden;width:65px}
+.success_cart .success_item .success_item_right{float:left;width:300px;text-align:left}
+.success_cart .success_item .title{font-weight:bold;font-size:13px;overflow:hidden}
+.success_cart .success_item .price{color:#666;font-weight:bold;font-size:13px}
+.success_cart .success_item .description{color:#666;font-size:11px;overflow:hidden;padding:10px 0 10px 0}
+.success_cart .success_item .new_balance{font-size:11px}
+.success_cart .success_item .num_balance{font-weight:bold;font-size:11px}
+.success_cart .success_button{float:right;padding-top:10px}
+.payment_body{border-top:1px solid #e9e9e9;padding:10px 0 8px 0}
+.payment_body div.subheading{font-weight:bold;font-size:13px;padding-bottom:0}
+.payment_body div.text{padding-bottom:7px;font-size:12px}
+.payment_body .payment_options .payment_option{margin:5px 0 0 7px}
+.payment_body .payment_options .payment_option label{color:#333;font-weight:normal;font-size:11px}
+.payment_body .credit_options .credit_option label{font-weight:normal;font-size:11px}
+.payment_body .credit_options .credit_option .best_value{background-color:#fff9d7;border:solid 1px #e2c822;padding:5px}
+.payment_body .credit_options .credit_option .num_credits_text{color:#333;font-weight:bold;font-size:13px}
+.payment_body .credit_options .change_currency_hint{display:block;float:right;font-weight:bold;font-size:9px;padding:2px 0 0 10px;text-align:right}
+.payment_body .credit_options .credit_option .price_text{color:#666}
+.payment_body .credit_options .credit_option .best_value_callout{color:#333;font-weight:bold}
+.payment_redirect_message{color:#666}
+#giftcredits_dialog_success_title #status_title{padding-left:0}
+.line_item{border-top:1px solid #e9e9e9;min-height:64px;margin:10px 0 0 0;padding:10px 0 0 0}
+.first_line_item{border-top:none;margin:0 0 0 0;padding:0 0 0 0}
+.line_item_price{display:block;float:right;font-weight:bold;min-height:64px;padding:2px 0 0 10px;text-align:right}
+.line_item_quantity{font-size:9px}
+.line_item_item{margin-top:10px}
+.line_item_img{float:left;margin:0 10px 0 0;max-width:100px}
+.line_item_title{font-size:13px;font-weight:bold}
+.clickable_line_item{border-top:1px solid #e9e9e9;min-height:64px;margin:10px 0 0 0;padding:10px 0 0 0}
+#dispute_form,
+.choose_payments_issue{padding:10px}
+.order_history_title{border:1px solid #eee;padding:10px}
+.order_history_dialog{height:235px;overflow:auto}
+.order_history_dialog .line_item{margin:0 10px 0 10px}
+#dispute_form .error_message{margin:10px 0 0 0}
+.terms_of_sale{color:#999;font-size:9px;padding:10px 0 0 0}
+.transfer_prompt{padding:0 0 0 60px;min-height:50px}
+.gift_credits_dialog .sample_app{padding-right:30px}
+.gift_credits_dialog .sample_apps{border-top:1px solid #ccc;padding:5px 0 0 0;margin:5px 0 0 0}
+.mobile_iframe{height:280px;width:495px}
+.app_error_message .title{font-size:12px;font-weight:bold}
+.app_error_message .body{background-color:#f7f7f7;border:1px solid #ccc;display:block;margin:10px 0 10px 0;font-size:12px;padding:6px 12px 6px 12px}
+.app_error_message .end{font-size:12px}
+.gifts_mall_breadcrumb .not_first{padding-left:15px;margin-left:8px;background:transparent url(/rsrc.php/z3B06/hash/86bejxp7.gif) no-repeat scroll center left}
+.gifts_mall .browser .canvas_iframe_util{height:285px;width:514px}
+.gifts_mall .browser .skus_holder img{height:50px;width:50px;padding:0 4px}
+.gifts_mall .browser .skus_holder{text-align:center;margin:10px auto 0}
+.gifts_mall .browser .UITabGrid_Cell .UITabGrid_Link{border-bottom:1px solid #e5e5e5;padding:10px 0 15px 0;margin:5px 5px 5px 5px}
+.gifts_mall .browser .UITabGrid_Cell .UITabGrid_Link:hover,
+.gifts_mall .browser .UITabGrid_Cell .UITabGrid_Link_Selected{border-bottom:1px solid #fff}
+.gifts_mall .browser .UITabGrid_Row_Last .UITabGrid_Cell .UITabGrid_Link{border-bottom:none}
+.giftshop #unavailable .message{padding:20px 0 20px 10px;font-weight:bold;color:#333}
+.giftshop #unavailable .message .title{font-size:18px}
+.giftshop #unavailable .message .explanation{padding-top:4px;font-size:14px}
+.giftshop_in_fbpage{padding:20px}
+#embedded_store #giftshop_tool_bar{margin:5px 4px 0 5px}
+#embedded_store #giftshop_tool_bar #top_tags_options{float:left}
+#embedded_store #giftshop_tool_bar #search_options{float:left;margin:0 2px 2px 7px;width:120px}
+#embedded_store .gift_caption .gift_title{display:none}
+#embedded_store .gift_outer_onmouseover .gift_caption .gift_title{display:block}
+#embedded_store .gift_outer_onmouseover .gift_caption .gift_price{display:none}
+#embedded_store .gift_caption,
+#embedded_store .gift_caption span{width:64px;margin-top:2px;margin-bottom:2px;text-align:center;color:#999;font-size:9px;font-weight:bold;height:22px}
+#embedded_store span.credits_rendered_with_symbol{background:transparent url(/rsrc.php/z8220/hash/5gew4ddz.gif) no-repeat scroll left 1px}
+.giftshop h2{margin-bottom:5px}
+.giftshop h3{margin-bottom:8px}
+.giftshop .step{background-color:#f7f7f7;border:solid 1px #ccc;padding:10px;margin:0 0 10px 0}
+.giftshop .step .step_body{border-top:solid 1px #ccc;margin-top:10px;padding-top:10px}
+.giftshop .step .full_page_gifts_mall_wrapper{background-color:#fff}
+.giftshop .extra_text{width:770px;margin-bottom:16px;font-weight:normal;font-size:11px}
+.giftshop .extra_text strong{color:#008000}
+.giftshop .extra_text .banner_explanation{font-size:13px;font-weight:bold;margin-top:20px}
+.giftshop div.gift_assigner_step{position:relative}
+.giftshop .compose_header{margin-bottom:15px}
+.giftshop .compose_header .learn_more{font-size:11px;font-weight:normal}
+.giftshop input.continue{margin-right:20px}
+.giftshop #friend_selector{float:left;width:240px}
+#recipient_pic{background-repeat:no-repeat;float:left;margin:0 0 0 10px}
+.giftshop_in_fbpage #embedded_store{background-color:#fff}
+.giftshop_in_fbpage #embedded_store,
+.giftshop .full_page_gifts_mall_wrapper{width:514px;border:1px solid #ccc;padding:4px}
+.giftshop #gifts_full_page_breadcrumb{color:#666;font-weight:bold}
+.giftshop .gifts_full_page_breadcrumb_wrapper{padding-bottom:4px;border-bottom:1px solid #dfdfdf;margin-bottom:8px}
+#embedded_store #gifts_grid.gifts_loading{background:url(/rsrc.php/z5R48/hash/ejut8v2y.gif) no-repeat center center}
+#embedded_store #giftshop_search_option_input{border:1px solid #bdc7d8;width:auto}
+#embedded_store #giftshop_search_option_input.tokenizer{padding:0 0 0 3px}
+#embedded_store #giftshop_search_option_input.tokenizer .inline_placeholder{color:#777;display:block;float:left;padding:3px 0 0 2px}
+#embedded_store #giftshop_search_option_input.tokenizer .token span span span span{padding:0 3px 0 5px}
+#embedded_store #giftshop_search_option_input.tokenizer .tokenizer_stretcher{padding-top:6px}
+#embedded_store #store_footer{border-top:1px solid #d5d5df;padding:3px 0 0 0}
+#embedded_store #store_footer #giftstore_pager{float:right;padding:3px 3px 2px 0}
+#embedded_store #store_footer #giftstore_pager .UIPager_PageNum{color:#999;font-weight:bold}
+#embedded_store #store_footer #summary{color:#333;float:left;font-weight:normal;padding:3px 0 4px}
+#embedded_store .gift_outer_onmouseover{padding:3px;float:left;margin-left:3px;margin-top:4px;background:url(/rsrc.php/zCYHP/hash/bu3sdhz5.jpg) no-repeat left top;cursor:pointer;cursor:hand}
+#embedded_store .gift_outer_onclick{padding:3px;float:left;margin-left:3px;margin-top:4px;background:url(/rsrc.php/z3JXA/hash/baxprq0j.jpg) no-repeat left top}
+.gift_inner{background-image:none;background-repeat:no-repeat;width:64px;height:64px}
+.giftshop textarea{height:74px;font-size:13px}
+.giftshop .privacy_options .privacy_option{margin-bottom:6px}
+.giftshop .privacy_options .privacy_option .short label{margin-left:2px;color:#000;font-weight:normal}
+.giftshop .privacy_options .privacy_option .description{margin:0 0 0 22px;color:#777}
+.giftshop .giftshop_footer{margin-top:10px}
+.GBControlHeader{overflow:hidden;padding:6px 8px 5px;clear:both}
+.GBControlHeader .GBSelectList{color:#808080;float:left;font-weight:bold;padding:2px 0}
+.GBControlHeader .GBSelectList a{font-weight:normal}
+.GBControlHeader .GBTabset{float:right}
+.GBUndoAction_notification_text{font-weight:bold}
+.GBUndoAction_link{margin-left:6px}
+.ThreadListWrapper{min-height:300px;margin-bottom:10px}
+.ThreadListFallback{line-height:300px;text-align:center}
+.UISearchSummaryBar{padding-top:7px}
+.UISearchSummaryBar_Pager{padding:4px 6px}
+.UISearchSummaryBar_Pager .UIPager{float:right}
+#UIErrorForm_GenericError{margin:0 0 7px 0}
+.UIErrorForm_Field .inputtext{border:none;padding:3px 0 3px 3px;display:block}
+.UIErrorForm_Field select{border:1px solid #bdc7d8}
+.UIErrorForm_NoError{border:1px solid #bdc7d8;display:block;float:left;position:relative}
+.UIErrorForm_NoInput{display:block;float:left;position:relative}
+.UIErrorForm_ErrorField{border:2px solid #dd3c10}
+.UIErrorForm_ErrorField input{border:none;margin:0}
+.UIErrorForm_Flag{background:url(/rsrc.php/z9D57/hash/4ch2qx47.gif) top left no-repeat;padding:0 0 0 10px;position:absolute;top:-2px;width:200px;z-index:2}
+.UIErrorForm_Flag_Inner{background-color:#ffebe8;border-bottom:1px solid #eb8266;display:block;padding:4px 7px 3px 9px}
+.UIPager_Button{background-image:url(/rsrc.php/z894N/hash/399m61ra.png);background-repeat:no-repeat;float:left;height:23px;position:relative;width:43px;z-index:2}
+.UIPager_ButtonBack{margin-right:-1px}
+.UIPager_ButtonBack:active{background-position:0 -23px}
+.UIPager_ButtonForward{background-position:-43px 0}
+.UIPager_ButtonForward:active{background-position:-43px -23px}
+.UIPager_ButtonDisabled .UIPager_ButtonBack,
+.UIPager_ButtonDisabled .UIPager_ButtonBack:active{background-position:0 -46px;cursor:default;z-index:1}
+.UIPager_ButtonDisabled .UIPager_ButtonForward,
+.UIPager_ButtonDisabled .UIPager_ButtonForward:active{background-position:-43px -46px;cursor:default;z-index:1}
+.UIPager_Vertical .UIPager_ButtonBack{background-position:-86px 0}
+.UIPager_Vertical .UIPager_ButtonBack:active{background-position:-86px -23px}
+.UIPager_Vertical .UIPager_ButtonForward{background-position:-129px 0}
+.UIPager_Vertical .UIPager_ButtonForward:active{background-position:-129px -23px}
+.UIPager_Vertical .UIPager_ButtonDisabled .UIPager_ButtonBack,
+.UIPager_Vertical .UIPager_ButtonDisabled .UIPager_ButtonBack:active{background-position:-86px -46px}
+.UIPager_Vertical .UIPager_ButtonDisabled .UIPager_ButtonForward,
+.UIPager_Vertical .UIPager_ButtonDisabled .UIPager_ButtonForward:active{background-position:-129px -46px}
+.UIPager .UIPager_PageNum{color:#000;float:left;font-size:10px;line-height:22px;padding-right:10px}
+
+#bootloader_css_2n0jmc6z9zy8cwg0_pkg_css { height: 42px; }

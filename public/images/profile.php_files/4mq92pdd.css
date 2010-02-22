@@ -1,0 +1,130 @@
+/*    HTTP Host:  b.static.ak.fbcdn.net                                        */
+/*    Generated:  February 17th 2010 12:00:45 AM PST                           */
+/*      Machine:  10.16.140.104                                                */
+/*       Source:  Backing Store                                                */
+/*     Location:  css/b6q5sqlutbswooo0.pkg.css h:4mq92pdd                      */
+/*       Locale:  nu_ll                                                        */
+/*         Path:  css/b6q5sqlutbswooo0.pkg.css                                 */
+
+.findfriends_submit{background:#6D84B4 url(/rsrc.php/z36B4/hash/ddd6errm.gif) repeat-x scroll center top;border:1px solid #315091;display:block;float:left;margin:0 0 0 -1px;padding:1px 2px 0 2px}
+.findfriends_submit input{width:1px;height:1px;position:absolute;top:-1000px;overflow:hidden}
+.findfriends_glass{background:#6D84B4 url(/rsrc.php/zC75L/hash/b642e4ms.png) no-repeat scroll 0 70%;display:block;height:19px;margin:0;padding:0 0 1px;width:19px}
+#nux_todos .search_query .inputtext{float:left;padding:4px 3px 3px 3px;line-height:14px;margin:0}
+.contact_importer_widget #address_book_login_widget{width:565px}
+.security_badge{position:relative;text-indent:17px}
+.security_badge img{position:absolute;left:-3px;top:-1px}
+.contact_importer_widget .ci_simple .ci_fields,
+.contact_importer_widget .contact_importer_simple{display:none}
+.contact_importer_widget .ci_simple .contact_importer_simple{display:inline-block}
+.ie7 .contact_importer_widget .ci_simple .contact_importer_simple{padding-right:25px}
+.contact_importer_widget .contact_importer_simple .full_importer{clear:left;display:block;margin:3px 0 0 0;padding:0 9px 0 0}
+.contact_importer_widget .contact_importer_button{cursor:pointer;display:block}
+.contact_importer_widget .contact_importer_button div{background:#879ac0;border:1px solid #29447e;border-bottom:1px solid #1a356e;display:inline-block}
+.ie7 .contact_importer_widget .contact_importer_button div,
+.ie6 .contact_importer_widget .contact_importer_button div{display:inline}
+.contact_importer_widget .contact_importer_button input.inputsubmit,
+#wizard_step .contact_importer_widget .contact_importer_button input.inputsubmit{color:#fff;cursor:pointer;padding:2px 10px 3px 24px;background-color:#5d76aa;background-image:url(/rsrc.php/z34UJ/hash/7mpe5iby.gif);background-position:8px 7px;background-repeat:no-repeat;border:none;font-size:13px;font-weight:normal;margin:1px 0 0 0;left:0;text-align:left}
+.contact_importer_widget .contact_importer_button div input.inputsubmit:active,
+#wizard_step .contact_importer_widget .contact_importer_button div input.inputsubmit:active{background-color:#314c85}
+.contact_importer_widget #address_book_form{width:450px;float:left;display:block;padding-right:11px}
+.contact_importer_widget #address_book_login_form #login_str,
+.contact_importer_widget #address_book_login_form #password{margin-left:4px;width:236px}
+.contact_importer_widget #address_book_login_form #login_str{direction:ltr}
+.contact_importer_widget.freeform #password.disabled,
+.contact_importer_widget.freeform #dummy_password.disabled{background-color:#f7f7f7;border:1px solid #ccc;color:#666}
+.contact_importer_widget.freeform #unsupported_email{width:275px;padding:10px 2px 0}
+.contact_importer_widget.freeform #unsupported_email h5{font-weight:bold}
+.contact_importer_widget.freeform #unsupported_email p{padding:0;margin:6px 0 0 0;line-height:15px}
+#address_book_login_widget .address_book_email td.label,
+#address_book_login_widget .password td.label{width:106px}
+.dialog_body .supported_domains ul li{background:transparent url(/rsrc.php/z6JTN/hash/7d2w3tn4.gif) 0 7px no-repeat;padding:2px 0 0 11px;margin:0 0 0 6px;color:#666;font-weight:normal}
+.dialog_body .supported_domains ul li{margin:0 0 0 2px}
+.dialog_body .supported_domains{width:420px;height:220px;overflow:auto;display:block;position:relative;z-index:30}
+.dialog_body .supported_domains:before{content:""}
+.dialog_body p.domain_description{padding-bottom:11px;margin-bottom:9px;border-bottom:1px solid #ccc}
+.contact_importer_widget.address_book_hide_divider #address_book_login_widget{width:450px;border:none;padding:0
+margin:0}
+.contact_importer_widget .disclaimer{color:#666;font-size:11px}
+.contact_importer_widget.freeform #address_book_login_widget #unsupported_email{display:none}
+.contact_importer_widget.freeform #address_book_login_widget.unsupported #unsupported_email{display:block}
+.contact_importer_widget .provider_logo{padding-left:10px;padding-top:5px}
+#address_book_login_widget .wl_hotmail_logo,
+#address_book_login_widget .gmail_logo,
+#address_book_login_widget .yahoo_logo{display:none}
+#address_book_login_widget.yahoo .wl_hotmail_logo,
+#address_book_login_widget.yahoo .gmail_logo{display:none}
+#address_book_login_widget.yahoo .yahoo_logo{display:block}
+#address_book_login_widget.windows_live_noiframe .yahoo_logo,
+#address_book_login_widget.windows_live_noiframe .gmail_logo{display:none}
+#address_book_login_widget.windows_live_noiframe .wl_hotmail_logo{display:block}
+#address_book_login_widget.gmail .wl_hotmail_logo,
+#address_book_login_widget.gmail .yahoo_logo{display:none}
+#address_book_login_widget.gmail .gmail_logo{display:block}
+.contact_importer_widget .ci_submit_container{display:block}
+.contact_importer_widget .ci_submit_container .ci_submit_button{padding-left:4px;float:left}
+.contact_importer_widget .ci_submit_container .ci_submit_button label{width:auto}
+.contact_importer_widget .ci_submit_container .ci_status_elem{float:left;padding-top:8px;padding-left:3px}
+.contact_importer_widget #ci_logo_importer{padding-left:80px;margin:20px 0;width:300px}
+.contact_importer_widget #ci_logo_importer .provider_name{text-align:center;font-weight:bold}
+.contact_importer_widget #ci_logo_importer .normal_importer_link{margin-top:10px;float:right;font-size:12px}
+.contact_importer_widget #ci_logo_importer .logo_container{background-color:#f5f4f5;background-image:url(/rsrc.php/z1V2B/hash/apfsevhg.png);background-position:0 8px;border:1px solid #a0a0a0;cursor:pointer;float:right;margin-left:13px;padding:5px}
+.contact_importer_widget #ci_logo_importer .disclaimer{margin-top:10px;float:right}
+.uiButton,
+.uiButtonSuppressed:hover,
+.uiButtonSuppressed:active,
+.uiButtonSuppressed:focus{background:#eee url(/rsrc.php/z1V2B/hash/apfsevhg.png) repeat 0 0;border:1px solid #999;border-bottom-color:#888;color:#333;cursor:pointer;display:-moz-inline-box;display:inline-block;font-size:11px;font-weight:bold;padding:2px 6px;position:relative;text-decoration:none;vertical-align:middle;white-space:nowrap;-moz-box-shadow:0 1px 0 rgba(0, 0, 0, .1);-webkit-box-shadow:0 1px 0 rgba(0, 0, 0, .1)}
+.uiButton + .uiButton{margin-left:5px}
+.uiButton:active,
+.uiButton:focus{opacity:1;filter:alpha(opacity = 100);-ms-filter:'alpha(opacity = 100)'}
+a.uiButtonMedium,
+a.uiButtonSuppressed:hover,
+a.uiButtonSuppressed:focus,
+a.uiButtonSuppressed:active{*padding:2px 6px 4px;_padding-top:3px}
+.uiButton:hover{text-decoration:none}
+.uiButton:active,
+.uiButtonDepressed{background:#ddd;border-bottom-color:#999;-moz-box-shadow:0 1px 0 rgba(0, 0, 0, .05);-webkit-box-shadow:0 1px 0 rgba(0, 0, 0, .05)}
+.uiButtonSuppressed{background:none;border:0;padding:3px 7px;-moz-box-shadow:none;-webkit-box-shadow:none}
+a.uiButtonSuppressed{*padding:3px 7px 5px;_padding-top:4px}
+.uiButton .img{display:-moz-inline-box;display:inline-block;margin-right:6px;vertical-align:middle}
+.uiButton .uiButtonText{display:-moz-inline-box;display:inline-block;font-weight:bold;vertical-align:middle}
+.uiButton .uiButtonText,
+.uiButton input{background:none;border:0;color:#333;cursor:pointer;display:-moz-inline-box;display:inline-block;font-family:'Lucida Grande', Tahoma, Verdana, Arial, sans-serif;font-size:11px;font-weight:bold;margin:0;outline:none;*overflow:visible;padding:1px 0 2px;*padding:0;white-space:nowrap;_width:0}
+.uiButton input::-moz-focus-inner{border:0;padding:0}
+.uiButtonDepressed,
+.uiButtonDepressed input{cursor:default}
+.uiButtonSpecial{background-color:#69a74e;background-position:0 -96px;border-color:#3b6e22 #3b6e22 #2c5115;color:#fff}
+.uiButtonSpecial:active{background:#609946;border-bottom-color:#3b6e22}
+.uiButtonSpecial.uiButtonDisabled,
+.uiButtonSpecial.uiButtonDisabled:active{background:#69a74e;border-bottom-color:#3b6e22}
+.uiButtonConfirm{background-color:#5b74a8;background-position:0 -48px;border-color:#29447e #29447e #1a356e;color:#fff}
+.uiButtonConfirm:active{background:#4f6aa3;border-bottom-color:#29447e}
+.uiButtonConfirm.uiButtonDisabled,
+.uiButtonConfirm.uiButtonDisabled:active{background:#5b74a8;border-bottom-color:#29447e}
+.uiButtonSpecial .uiButtonText,
+.uiButtonConfirm .uiButtonText,
+.uiButtonSpecial input,
+.uiButtonConfirm input{color:#fff}
+.uiButtonDisabled,
+.uiButtonDisabled:active{background:#f2f2f2;cursor:default;filter:alpha(opacity = 50);-ms-filter:'alpha(opacity = 50);';opacity:.5;-moz-box-shadow:none;-webkit-box-shadow:none}
+.uiButtonDisabled input{cursor:default}
+.uiButtonDefault.uiButtonDisabled,
+.uiButtonDefault.uiButtonDisabled:active{border-color:#c8c8c8;filter:alpha(opacity = 100);-ms-filter:'alpha(opacity = 100);';opacity:1}
+.uiButtonDefault.uiButtonDisabled input{color:#b8b8b8}
+.uiButtonSmall{padding:1px 4px;*padding:2px 4px 1px}
+.uiButtonSmall .uiButtonText,
+.uiButtonSmall input{font-size:9px;padding:0 0 2px}
+.uiButtonSmall input{padding-top:1px}
+.uiButtonLarge,
+.uiButtonLarge .uiButtonText,
+.uiButtonLarge input{font-size:13px}
+.uiButtonLarge{padding:3px 9px}
+a.uiButtonLarge{*padding:5px 9px}
+.flashFallbackButton{text-align:center}
+.uiVideoThumb{border:0;overflow:hidden;position:relative}
+.uiVideoThumb img{display:-moz-inline-box;display:inline-block;max-width:130px;_width:130px}
+.uiVideoThumb img[width]{max-width:auto}
+.uiVideoThumb i{background:url(/rsrc.php/z467T/hash/1fjg6c8h.png) no-repeat 0 0;bottom:0;height:32px;left:0;position:absolute;width:39px}
+.uiVideoThumbSmall i{background-image:url(/rsrc.php/zCK6C/hash/ar2u0whl.png);_background-image:url(/rsrc.php/z991A/hash/6hm34swz.png);height:26px;width:31px}
+.uiVideoThumbLoading i{background:#fff url(/rsrc.php/zBS5C/hash/7hwy7at6.gif) no-repeat 50% 50%;height:100%;width:100%;_width:auto}
+
+#bootloader_css_b6q5sqlutbswooo0_pkg_css { height: 42px; }

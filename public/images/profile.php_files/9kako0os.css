@@ -1,0 +1,319 @@
+/*    HTTP Host:  static.ak.fbcdn.net                                          */
+/*    Generated:  February 17th 2010 1:47:48 PM PST                            */
+/*      Machine:  10.16.139.110                                                */
+/*       Source:  Local Cache                                                  */
+/*     Location:  rsrc:4:9kako0os                                              */
+/*       Locale:  nu_ll                                                        */
+/*         Path:  css/c5cwlujfa4o4k8wk.pkg.css                                 */
+
+.FriendsPage_SearchContainer{padding:7px 0 19px 0}
+.FriendsPage_SearchContainer #FriendsPage_Search{height:14px;margin:0;width:128px}
+.FriendsPage_SettingsLink a.FriendsPage_ConnectionSettings{background:transparent url(/rsrc.php/z6UCP/hash/6vkuk0vc.gif) no-repeat 0 3px;padding:1px 10px 4px 16px}
+.FriendsPage_Typeahead input{width:175px}
+#FriendsPage_ContentContainer{margin-top:10px;padding-left:7px;margin-bottom:10px}
+.FriendsPage_BlankStateContainer{padding:50px 20px;text-align:center}
+.FriendsPage_BlankStateMessage{font-size:13px;text-align:center;padding-bottom:10px}
+.FriendsPage_BlankStateLink{font-size:13px;font-weight:bold}
+.FriendsPage_PhonebookRight{font-size:13px;padding-top:17px;padding-right:20px}
+.FriendsPage_RecentlyUpdated{float:right;text-align:right;padding-top:10px;padding-right:20px}
+.FriendsPage_RecentlyUpdatedTime{color:#999;padding-top:2px}
+.FriendsPage_RecentlyUpdatedContent .updates{margin:0;padding:0 0 1px 0;background:#fff8cc;border-bottom:solid 1px #ffe222}
+.FriendsPage_PhonebookBoth{padding-top:8px}
+.FriendsPage_PhonebookLand,
+.FriendsPage_PhonebookCell{text-align:right}
+.FriendsPage_PhonebookCell{padding-bottom:3px}
+.FriendsPage_PhonebookLabel{font-size:9px;padding-right:5px;color:#999}
+#FriendsPage_Container em{background:#d8dfea;font-style:normal;font-weight:bold}
+#FriendsPage_StatusContainer{margin:10px 3px 0 3px}
+#FriendsPage_Container .UIObjectListing_Title{padding-top:10px}
+.FriendsPage_ToolbarFiltersLabel{padding-right:5px;padding-left:2px;font-weight:bold;color:#666}
+.FriendsPage_EmptyList{color:#808080;font-size:14px;padding:20px 0;text-align:center}
+.FriendsPage_SimpleStatus{background:#fff9d7;border:1px solid #e2c822;padding:3px;font-weight:bold;font-size:11px}
+.FriendsPage_SelectLabel{font-weight:bold;padding-left:3px;padding-right:5px;color:#333}
+.FriendsPage_ToolbarFiltersPrimarySelect{margin-right:3px}
+.FriendsPage_Settings h3{font-size:12px;padding:0 0 3px}
+.FriendsPage_Settings h4{color:#666;font-size:11px;font-weight:normal;line-height:14px;padding:0 0 16px}
+.FriendsPage_Settings .FriendsPage_Settings_Section{overflow:hidden;padding:0 0 24px}
+.FriendsPage_Settings .FriendsPage_Settings_Option{float:left;position:relative;padding:0 12px 0 0}
+.FriendsPage_Settings img.FriendsPage_SettingLoader{display:none;position:absolute;top:2px;left:-3px}
+.FriendsPage_Settings div.isLoading img.FriendsPage_SettingLoader{display:block}
+.FriendsPage_Settings div.isLoading input{visibility:hidden}
+.FriendsPage_Settings .FriendsPage_Settings_Option img.FriendsOption{margin-right:4px;margin-bottom:-2px}
+.FriendsPage_Settings .FriendsPage_Settings_Option img.ConnectBoth{background-image:url(/rsrc.php/z20MP/hash/7m3hsw0j.gif);background-position:1px 0;height:15px;width:16px}
+.FriendsPage_Settings div label{color:#111}
+.FriendsPage_Settings div label b{color:#333}
+.FriendsPage_Settings div label span{color:#666;display:block;font-weight:normal;line-height:14px;padding:2px 0 10px 18px}
+.FriendsPage_InviteFriends{margin-top:15px;padding-left:25px;background:transparent url(/rsrc.php/zEE8D/hash/6oyzh0ri.gif) top left no-repeat;margin-left:3px}
+.FriendsPage_MenuContainer{background:#eee}
+.FriendsPage_MenuBlankState{font-weight:bold;padding:5px 6px 1px;color:#555}
+.FriendsPage_NewListInput{width:142px;margin:5px}
+.FriendsPage .findfriends_pane{padding:15px}
+.ie6 .findfriends_pane{padding:10px}
+.FriendsPage .findfriends_pane .friend_grid .friend_grid_col{width:159px}
+.FriendsPage .findfriends_pane .friend_grid .friend_grid_col .fg_links{width:85px}
+.FriendsPage .findfriends_pane #new_ff .box_row .box{width:272px}
+.FriendsPage .findfriends_pane #new_ff .box_row .full{width:568px}
+.FriendsPage .findfriends_pane #new_ff .box_row #webmail #address_book_login_widget{width:540px}
+.FriendsPage .findfriends_pane .invite_friends .invite_form_holder{padding:20px 0;width:380px}
+.FriendsPage .findfriends_pane .invite .editor_panel{padding:10px 0}
+.FriendsPage .findfriends_pane .invite .editor_panel{margin-right:0;background:transparent}
+.FriendsPage .findfriends_pane .invite .title_header{margin-right:0;background:transparent}
+.FriendsPage .findfriends_pane .invite_friends .callout{margin:20px 0 0}
+.GBToolbarSearch .UIWell{border:none;background:none}
+.GBToolbarSearch .UIToolbarWell_Content{padding:1px 0 0}
+.GBSearchBox_Input{background-color:#fff;border:1px solid #999;border-bottom-color:#808080;border-right:none;float:left;width:125px}
+.GBSearchBox_Input input{border-width:0;font-size:11px;padding:2px 4px 1px;*padding:2px 4px;width:109px}
+.ff2 .GBSearchBox_Input input{padding:3px 4px 4px}
+.ff3 .GBSearchBox_Input input{padding:3px 4px}
+.GBSearchBox_Input input.typeahead_found{background-color:#fff}
+.GBSearchBox_Input input:focus{outline:0}
+.GBSearchBox_Submit{border:1px solid #999;border-left:none;border-bottom-color:#808080;float:left}
+.GBSearchBox_SubmitLink{border-left:1px solid #e6e6e6;display:block;width:22px}
+a.GBSearchBox_SubmitLink:hover{text-decoration:none}
+.GBSearchBox_Button{background:white url(/rsrc.php/z3TDS/hash/cfaa4veq.png) no-repeat scroll center center;display:block;padding:4px 4px 3px}
+.ff2 .GBSearchBox_Button{padding:3px 4px 4px}
+.ff3 .GBSearchBox_Button{padding-bottom:2px}
+.GBTabset{font-weight:bold;overflow:hidden}
+.GBTabset_Label{color:#808080;float:left;padding:2px 8px 2px}
+.GBTabset_Pill,
+.GBTabset_Pill span,
+.GBTabset_Pill span span,
+.GBTabset_Pill span span span{float:left;background-position:left top}
+.GBTabset_Pill span{background-position:right top}
+.GBTabset_Pill span span{background-position:right bottom}
+.GBTabset_Pill span span span{background-position:left bottom;padding:2px 8px}
+.GBTabset .selected,
+.GBTabset .selected span,
+.GBTabset .selected span span,
+.GBTabset .selected span span span{background-image:url(/rsrc.php/zB3EA/hash/7x0yx3gz.gif);color:#fff}
+.GBTabset .selected:hover{text-decoration:none}
+.MessageComposerDialog .gigaboxx_composer{padding:10px}
+.ie7 .gigaboxx_composer .field_set_wrapper,
+.ie8 .gigaboxx_composer .field_set_wrapper{padding-bottom:5px}
+.gigaboxx_composer .field_set_wrapper dl.gigaboxx_field_set{overflow:hidden;display:block;margin:0}
+.gigaboxx_composer .UIComposer_ButtonArea{position:relative}
+.gigaboxx_composer .UIComposer_Attachments{position:absolute;left:-75px}
+.gigaboxx_composer .UIComposer_Attachments li.UIComposer_AttachmentPrompt{width:70px;text-align:right}
+.gigaboxx_composer .field_set_wrapper dl.gigaboxx_field_set
+dt.gigaboxx_field{width:70px;margin:0 5px 5px 0;display:block}
+.gigaboxx_composer .field_set_wrapper dl.gigaboxx_field_set
+dd.gigaboxx_field{width:420px;margin:0 0 5px;display:block}
+.gigaboxx_composer dd.gigaboxx_field .gigaboxx_noinput{color:#333;margin-top:5px;display:inline-block}
+.gigaboxx_composer dd.gigaboxx_field .inputtext{width:410px;border:1px solid #8496ba;padding:4px}
+.gigaboxx_composer dd.gigaboxx_field .tokenizer{width:410px}
+.gigaboxx_composer .error{margin-bottom:10px}
+.gigaboxx_composer_message_label{color:#777;float:left;font-weight:bold;margin-top:3px;text-align:right;width:70px}
+.gigaboxx_composer_reply_label{width:70px}
+.message_pane .gigaboxx_composer .MessageComposer{padding-top:8px}
+.MessageComposer .UIComposer_Content{padding:0;margin-left:75px;width:420px}
+.gigaboxx_composer .MessageComposer .UIComposer_TextArea{height:50px;max-height:200px;overflow:auto}
+.MessageComposer .UIComposer_InputArea{border:1px solid #8496ba;zoom:1}
+.MessageComposer .UIComposer_CancelButton{margin-left:5px}
+.MessageComposer .UIComposer_InputShadow{border:none}
+.MessageComposer .UIShareStage .UIShareStage_ShareContent{width:69%}
+.MessageComposer_Reply{border-top:solid 1px #b3b3b3}
+.MessageComposer_Reply dd.gigaboxx_field .tokenizer{width:514px}
+div.pop_dialog .gigaboxx_composer .UIComposer .UIComposer_ButtonArea{display:block}
+.sharebox .set_divider{border-top:1px solid #ccc;margin:0}
+.sharebox #content{padding:0}
+.sharebox .media_header .inputtext{margin:0 7px}
+.tab_bar{padding:12px 10px 0 10px}
+.sharer_bar{text-align:left}
+.share_side_sharer .inputtext{margin:0 0 10px 0;width:170px;direction:ltr}
+.sharebox .empty_message{background:white;font-size:13px}
+.sharebox .empty_message .empty_sharer{background:#f7f7f7;padding:10px;text-align:center;border:1px solid #ccc;margin-top:10px}
+.sharebox .empty_message .empty_sharer #u{width:300px;margin-right:5px}
+.sharebox .empty_message .empty_sharer .inputsubmit{height:21px}
+.sharebox .sharebox_dialog{padding:0 0 15px 0}
+.sharebox .sharebox_dialog .status{margin:0}
+.thread .status{margin:10px 10px 0}
+.sharebox .sharebox_dialog #error{margin:0}
+.sharebox .share_help_dialog ul{padding:3px 0 0 0;line-height:16px}
+.sharebox .post_actions{padding:6px 20px 5px;background:#f7f7f7;border-top:solid 1px #b7b7b7;border-bottom:solid 1px #ccc}
+.sharebox .sharebox_item{padding:0 0 20px}
+.sharebox_item{clear:both;padding:10px 20px 30px 20px}
+.share_owner_thumb{float:left;padding:0 0 10px 0;text-align:left;width:58px}
+.share_owner_thumb .user_picture{float:left;margin-right:10px;overflow:hidden;height:40px;width:40px}
+.share_owner_thumb img{display:block}
+.sharebox .share_contents{width:480px}
+.share_contents{float:left;width:365px}
+.no_thumb .share_contents{float:none;width:auto}
+.share_contents .share_header{background-color:#f7f7f7;border-bottom:1px solid #d8dfea;border-top:1px solid #3b5998;padding:4px 5px 2px 5px}
+.share_contents .share_header .shareicon{float:left;padding-right:8px;margin-bottom:8px}
+.share_contents .share_header .main_line{padding:0 0 2px 0}
+.share_contents .share_header .sub_line{font-size:9px;padding:0 0 1px 0}
+.share_contents .share_header a.owner{font-weight:bold}
+.share_contents .share_header .share_and_hide{float:right;margin:1px 0 0 5px}
+.share_contents .share_media{padding:8px 5px}
+.sharebox .summary_bar{border-bottom:0;border-top:1px solid #d8dfea;padding:4px 0 8px 5px}
+.sharebox .posted_side_column{padding:0 10px}
+.sharebox .posted_side_column .sidecolumn_module{padding:10px 0}
+.sharebox .posted_side_column .sidecolumn_module h2{margin:0;padding:0 0 5px 0;font-size:11px}
+.sharebox .sidecolumn_module select{margin-top:5px;width:178px}
+.accessibility_instructions{display:none}
+.sharebox .divider{border-bottom:solid 1px #fff;border-top:solid 1px #ddd;clear:both;height:0;margin:0}
+.sharebox .divider hr{display:none}
+.sharebox #syndication_sidebar{padding-left:0}
+.sharebox .footer_bar{background:white;clear:both}
+.share_options #content, .share_help #content, .share_partners #content{padding:0}
+.share_options .frame, .share_partners .frame{padding:20px}
+.share_help .frame{padding:0 15px 15px;margin-bottom:10px;background:#fff}
+.share_options #content h2 a, .share_partners #content h2 a, .share_help h2 a{margin-left:8px;font-weight:normal;font-size:11px}
+.share_options .steps{float:left;margin-top:8px}
+.share_options .protip{border:1px solid #eee;background:#f7f7f7;padding:5px 8px;margin:12px 0 10px;width:155px;float:right}
+.share_options .paragraphs{float:left;margin:0 0 10px 0}
+.share_options .images{text-align:left;margin-right:12px}
+.share_options p{margin:0 0 10px 0}
+.share_options .step1, .share_options .step2{padding:10px 0 0 0}
+.share_options .step1{border-bottom:1px solid #d8dfea}
+.share_options .step1 .paragraphs{width:250px}
+.share_options .step1 .images{float:left;padding:7px 0 7px 0}
+.share_options .step1 .images .arrow{margin:0 5px 0 0;float:right}
+.share_options .step2 .paragraphs{width:155px}
+.share_options .step2 .images{float:left;margin-top:-5px;width:220px}
+.share_help h3, .share_partners h3{padding:20px 0 5px;border-bottom:1px solid #d8dfea;font-size:12px;font-weight:bold;clear:both}
+.share_partners h3.sharepro_header{border-bottom:0;padding-bottom:0}
+.share_partners h3{font-size:13px;padding:0 0 5px 0}
+.share_partners h4{margin:0;padding:10px 0 3px 2px;font-size:12px;color:#444;border-bottom:1px solid #d8dfea}
+.share_partners .sample_button{padding:10px 0}
+.share_partners .button_preview{float:left;padding:3px 0 0 5px}
+.share_partners .code_block{float:right;width:510px;padding:2px 3px 3px;font-size:11px;background:#fff;margin-right:7px;border:1px solid #ccc;color:#555}
+.share_partners h5{margin:10px 0 5px;color:#666}
+.share_partners .advanced_code_block{margin-bottom:10px;padding:6px 10px;border:1px solid #dedede;background:#fff}
+.share_partners .share_section{margin-bottom:35px}
+#sharepro_wizard{padding-left:0}
+#sharepro_wizard .options{width:430px}
+#sharepro_wizard .preview_container{width:200px}
+#sharepro_wizard ol{padding-left:20px}
+#sharepro_code{height:7em}
+html > body #shareitems .share_and_hide{*width:60px}
+html > body #shareitems .x_to_hide{*float:right}
+.GBThreadMessageRow{border-top:1px solid #ddd;margin:0 0 8px;padding:8px 0 0 0;overflow:hidden}
+.GBThreadMessageRow_Image{position:relative;height:50px;width:50px;margin-right:10px;float:left}
+.GBThreadMessageRow_Info{margin-bottom:4px}
+.GBThreadMessageRow_AuthorLink_Wrapper{font-size:13px;font-weight:bold;color:#333}
+.GBThreadMessageRow_Date{color:#777;font-size:11px;margin-bottom:4px}
+.GBThreadMessageRow_ReportLink{color:#777;font-size:11px;margin-bottom:4px}
+.GBThreadMessageRow_Body{color:#333;width:460px;float:left;overflow:hidden;font-size:13px}
+.GBThreadMessageRow_ReferrerLink{margin:10px 0 0 0;font-size:9px;color:#777}
+.GBThreadMessageRow_Body_Attachment{font-size:11px}
+.GBThreadMessageRow .UIStoryAttachment_MediaSingle{padding:0 10px 10px 0}
+.GBThreadMessageRow .attached_photo{border:1px solid #ccc;display:-moz-inline-box;display:inline-block;line-height:0;padding:2px;zoom:1;*display:inline}
+.GBThreadMessageRow .attached_photo:hover{border-color:#999}
+.GBThreadMessageRow .share_button{padding:2px 0}
+.GBThreadMessage_PhotoDialog .dialog_body{text-align:center}
+.GBThreadRow_Inaccessible table{display:none}
+.GBThreadRow_Inaccessible .GBThreadRow_InaccessibleWarning{color:#ddd;cursor:default;font-weight:bold;margin:21px 0 0 260px}
+.GBThreadRow{border-top:1px solid #e5e5e5;height:56px;overflow:hidden;position:relative}
+.GBThreadRow_NoBorder{border-top:0}
+.GBThreadRow table{border-collapse:collapse;width:100%}
+.GBThreadRow .line{color:#3b5998;font-size:11px}
+.GBThreadRow_Hover .subject{text-decoration:underline}
+.GBThreadRow_HoverBlocker .subject{text-decoration:none}
+.GBThreadRow .unread{background-color:#eceef4}
+.GBThreadRow .unread .subject{font-weight:bold}
+.GBThreadRow tr{height:56px;vertical-align:middle}
+.GBThreadRow td.checkbox{text-align:center;width:25px}
+.ie6 .GBThreadRow td.checkbox,
+.ie7 .GBThreadRow td.checkbox{padding-top:1px;vertical-align:top}
+.GBThreadRow td.checkbox label{cursor:default;display:table-cell;height:50px;width:25px}
+.GBThreadRow td.checkbox input{height:50px;margin:0;vertical-align:middle}
+.GBThreadRow td.badge_column,
+.GBThreadRow a.badge{width:17px}
+.GBThreadRow a.badge,
+.GBFolder_Sent .GBThreadRow a.badge{background:url(/rsrc.php/z14M5/hash/a657viny.png) no-repeat -570px -170px;cursor:pointer;display:block;height:55px}
+.GBThreadRow .replied a.badge,
+.GBFolder_Sent .GBThreadRow .replied a.badge:hover{background-position:-588px -170px}
+.GBThreadRow .unread a.badge,
+.GBThreadRow .unread a.badge:hover,
+.GBFolder_Sent .GBThreadRow .unread a.badge:hover{background-position:-606px -170px;cursor:pointer}
+.GBThreadRow a.badge:hover{background-position:-624px -170px}
+.GBFolder_Sent .GBThreadRow a.badge:hover{cursor:default;background-position:-570px -170px}
+.GBThreadRow td.icon{width:50px}
+.GBThreadRow td.attachment{width:18px}
+.GBThreadRow .envelope{padding-left:5px;width:150px}
+.GBThreadRow .thread_detail{padding-left:10px}
+.GBThreadRow div.Thread_Icon{float:left;position:relative;height:50px;width:50px;margin:3px 3px 3px 0}
+.ie7 .GBThreadRow div.Thread_Icon{margin:0}
+.GBThreadRow .tagline{color:#808080}
+.GBThreadRow .date{font-size:9px}
+.GBThreadRow .delete_button{float:right;margin:0 7px}
+#gigaboxx_wrapper{visibility:hidden}
+#mainContainer #gigaboxx_wrapper{margin-left:-5px;margin-right:-5px}
+#mainContainer #gigaboxx_wrapper .rfloat{padding-top:1px}
+#mainContainer .GBToolbarSearch{display:none}
+#mainContainer #gigaboxx_wrapper .GBSearchBox{display:inline;padding-right:10px;text-align:left}
+#mainContainer .gigaboxx_thread_header_subject{display:none}
+.GigaboxxContent{min-height:100px}
+#mainContainer .ThreadListWrapper{margin:0 6px}
+#gigaboxx_wrapper .UIToolbarWell .GBSearchBox{float:left}
+#gigaboxx_wrapper .UIToolbarWell .GBTabset{padding-top:7px;padding-right:7px}
+#gigaboxx_wrapper .UIToolbarWell .GBToolbarDivider{border-color:#d6d6d6;border-left:0;cursor:default;height:19px;padding:0;vertical-align:top}
+.gigaboxx_error{margin:10px 10px 200px;display:block;text-align:center;padding:50px;background-color:#ffebe8;border:solid 2px #dd3c10}
+#gigaboxx_wrapper .UIWell{margin-bottom:7px}
+.GigaboxxContent.async_saving{background:url(/rsrc.php/zBS5C/hash/7hwy7at6.gif) no-repeat scroll 382px 10px
+}
+#gigaboxx_wrapper #safety_dialog_message{margin-bottom:10px}
+#gigaboxx_wrapper #sidebar_ads{padding-top:8px}
+#gigaboxx_wrapper #gb_muffin_area{display:none;float:right}
+#gb_content_and_toolbar{float:left;width:780px}
+.gb_has_muffin #gb_content_and_toolbar{width:585px}
+#mainContainer #gb_content_and_toolbar{width:775px}
+#mainContainer .gb_has_muffin #gb_content_and_toolbar{width:580px}
+.message_pane{padding:0 8px}
+.gigaboxx_thread_header{display:block;overflow:hidden;margin:0 0 1px 0;padding:5px 20px 5px 0;border-bottom:1px solid #b3b3b3}
+.gigaboxx_thread_header_subject{display:block;font-size:15px;color:#333}
+.gigaboxx_thread_header_authors{display:block;font-size:11px;color:#555;padding:3px 0}
+.gigaboxx_thread_branch_message{font-size:11px;background-color:#fffbe2;border:1px solid #ffe222;padding:10px;margin:15px 0}
+.gigaboxx_thread_hidden_messages{background-color:#edeff4;border:1px solid #d4dae8;font-size:11px;font-weight:normal;margin:15px 0 15px}
+.gigaboxx_thread_hidden_messages a{background:url(/rsrc.php/zBCCR/hash/bax863jk.gif) no-repeat 15px 15px;display:block;padding:10px 15px 10px 30px}
+.UIObjectListing{border-bottom:1px solid #eee;min-height:50px;padding:2px 0}
+.UIObjectListing_Pic{float:left;width:50px;height:50px;position:relative;overflow:hidden}
+.UIObjectListing_PicPadding .UIObjectListing_Pic{padding-left:5px}
+.UIObjectListing_MetaData{float:left;padding-left:10px;padding-top:12px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+#FriendsPage_Container .UIObjectListing_MetaData{width:300px}
+#FriendsPage_Container .UIObjectListing_RightContent{width:200px}
+.UIObjectListing_MetaDataSecondary{overflow:hidden;text-overflow:ellipsis}
+.UIObjectListing_Title{font-size:13px;font-weight:bold}
+.UIObjectListing_TitleNormal .UIObjectListing_Title{font-weight:normal}
+.UIObjectListing_Subtext{color:#666}
+.UIObjectListing_Padding{padding-right:5px}
+.UIObjectListing_RightContent{float:right}
+.ff2 .UIObjectListing_RightContent{float:none}
+.UIObjectListing_ActionContainer{float:right;white-space:nowrap;padding-top:13px;padding-right:19px}
+.UIObjectListing_HasRemoveControl .UIObjectListing_ActionContainer{padding-right:8px;border-right:1px solid #e7e7e7;height:27px;padding-top:4px;margin-top:10px}
+.UIObjectListing_RemoveContainer{float:right;padding-right:19px;padding-top:16px;padding-left:8px}
+.UIObjectListing_RemoveLink{background:transparent url(/rsrc.php/z3NUO/hash/5up5g102.gif) no-repeat top left;width:18px;height:18px;display:block}
+.UIObjectListing_RemoveLink:hover{text-decoration:none;background-position:top right}
+.tooltip_lock{margin-left:4px}
+.tooltip{position:absolute;z-index:4;overflow:hidden;display:none}
+.tooltip_right_center{background:transparent url(/rsrc.php/zDX0M/hash/5ot5kxah.gif) 0 center no-repeat;padding-left:4px}
+.tooltip_top_center{background:transparent url(/rsrc.php/zDEWE/hash/2vrzx50l.gif) bottom center no-repeat;padding-bottom:4px}
+.tooltip_bottom_center{background:transparent url(/rsrc.php/z713H/hash/b8c5la4e.gif) top center no-repeat;padding-top:4px}
+.tooltip_left_center{background:transparent url(/rsrc.php/z972M/hash/5xk50m1d.gif) right center no-repeat;padding-right:4px}
+.tooltip_inner{margin:0;padding:4px 8px;font-size:11px;color:#fff;background-color:#282828;overflow:hidden;max-width:215px}
+.UIToolbarWell_Content{overflow:hidden;padding:0 6px}
+.UIToolbarWell_MainContent{height:23px;padding:6px 0}
+.UIToolbarWell_Left{text-align:left;float:left}
+.UIToolbarWell_Right{float:right;text-align:right}
+.UIToolbarWell_Left .UIToolbarWell_Button .UIButton{margin-right:6px}
+.UIToolbarWell_SecondaryContent{border-top:1px solid #d7d7d7;padding:5px 0}
+.dataTable{border:0;border-collapse:collapse;border-spacing:0;width:100%}
+.dataTable label{color:#000;font-weight:normal}
+.dataTable .spacer td{padding:5px 0}
+.noBorder .spacer td{padding:0;visibility:hidden}
+.dataTable .label,
+.dataTable .data,
+.dataTable .rightCol{padding:3px 0 1px 0;text-align:left;vertical-align:top}
+.dataTable .dataRow .data,
+.dataTable .dataRow .rightCol{padding-top:5px}
+.dataTable .data > input,
+.dataTable .data > label input,
+.dataTable .rightCol > input,
+.dataTable .rightCol > label input{margin-left:0}
+.dataTable .label{color:#666;font-weight:bold;padding-right:10px;text-align:right;width:130px}
+.dataTable .dataRow .label{padding-top:9px}
+.dataTable .rightCol{padding:0 0 0 20px;width:225px}
+.dataTable .hiddenrow{display:none}
+
+#bootloader_css_c5cwlujfa4o4k8wk_pkg_css { height: 42px; }
